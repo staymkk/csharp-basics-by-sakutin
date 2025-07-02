@@ -29,6 +29,27 @@ namespace variables_in_csharp
             string st = "Привет!";
             // Логический тип
             bool bl = true;
+
+            // + - * / %
+            float result;
+
+            int x, y;
+
+            x = 5;
+            y = 2;
+
+            result = Convert.ToSingle(x) / y;
+            Console.WriteLine(result);
+
+            int timeInMinutes = 130;
+            int hour;
+            int minute;
+
+            hour = timeInMinutes / 60;
+            minute = timeInMinutes % 60;
+
+            Console.WriteLine("hours: " + hour);
+            Console.WriteLine("minutes: " + minute);
         }
     }
 }

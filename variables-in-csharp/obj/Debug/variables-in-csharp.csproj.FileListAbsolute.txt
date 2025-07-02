@@ -1,0 +1,7 @@
+C:\Users\MAN-MADE\source\repos\variables-in-csharp\variables-in-csharp\bin\Debug\variables-in-csharp.exe.config
+C:\Users\MAN-MADE\source\repos\variables-in-csharp\variables-in-csharp\bin\Debug\variables-in-csharp.exe
+C:\Users\MAN-MADE\source\repos\variables-in-csharp\variables-in-csharp\bin\Debug\variables-in-csharp.pdb
+C:\Users\MAN-MADE\source\repos\variables-in-csharp\variables-in-csharp\obj\Debug\variables-in-csharp.csproj.AssemblyReference.cache
+C:\Users\MAN-MADE\source\repos\variables-in-csharp\variables-in-csharp\obj\Debug\variables-in-csharp.csproj.CoreCompileInputs.cache
+C:\Users\MAN-MADE\source\repos\variables-in-csharp\variables-in-csharp\obj\Debug\variables-in-csharp.exe
+C:\Users\MAN-MADE\source\repos\variables-in-csharp\variables-in-csharp\obj\Debug\variables-in-csharp.pdb
